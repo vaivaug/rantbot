@@ -3,6 +3,7 @@ html, body {
 }
 
 .jumbotron {
+    top: 10vh;
     background-color: #0FFF95
 }
 
@@ -16,6 +17,4 @@ html, body {
     color: #fff;
     overflow: hidden;
     margin: 0 auto;
-}
-
 }
