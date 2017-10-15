@@ -3,7 +3,7 @@ html, body {
 }
 
 .jumbotron {
-    top: 10vh;
+    margin-top: 1em;
     background-color: #0FFF95
 }
 
