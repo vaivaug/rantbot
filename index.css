@@ -18,3 +18,7 @@ html, body {
     overflow: hidden;
     margin: 0 auto;
 }
+
+img {
+    width: 20vw;
+}
